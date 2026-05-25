@@ -1,0 +1,6 @@
+{
+  "name": "AI VibeChat",
+  "description": "A configurable, client-side AI chat application for connecting with popular AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
